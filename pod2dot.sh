@@ -1,7 +1,7 @@
 #!/bin/bash
 #
-# Takes a Dot file and produces a directed graph visualisation using "fdp".
-# The Postscript file produced can be opened in Preview on a mac.
+# Takes a cocoapods pod file converts to dot file and then produces a directed graph visualisation using "fdp".
+# The Postscript file produced can be opened in "Preview" on a mac.
 #
 # The Dot filename is used as the name of the Postscript file.
 #
